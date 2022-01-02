@@ -1,3 +1,5 @@
+Сценарий для сборки madadev
+
 ======= Установка =======
 Поместите папку grain и файл grain.act в папку ROUTES\Chernyshevsk_RTS\RTS_ACT
 
