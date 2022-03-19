@@ -1,4 +1,4 @@
-Сценарий для сборки madadev
+Сценарий для сборки madadev. Распространяется по лицензии MIT.
 
 ======= Установка =======
 Поместите папку grain и файл grain.act в папку ROUTES\Chernyshevsk_RTS\RTS_ACT
